@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<addresses>
+    <city size="big">Kiev</city>
+    <street>Shevchenko</street>
+    <house>10</house>
+    <city size="big">Dnipro</city>
+    <street>Shmidta</street>
+    <house>16</house>
+</addresses>
